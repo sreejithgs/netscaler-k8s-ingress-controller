@@ -1,4 +1,4 @@
-# Deploy Citrix ADC-Integrated Canary Deployment Solution
+# Deploy NetScaler-Integrated Canary Deployment Solution
 
 Canary release is a technique to reduce the risk of introducing a new software version in production by first rolling out the change to a small subset of users. After the user validation, the application is rolled out to the larger set of users.
 
